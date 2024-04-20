@@ -11,6 +11,6 @@ def clean_whitespace(input_file_path, output_file_path):
 
 # Specify the path to your input file
 input_file = 'Animals1.txt'  # This should be your uploaded file path
-output_file = 'Cleaned_Animals.txt'  # Path where the cleaned file will be saved
+output_file = 'Cleaned_Animals1.txt'  # Path where the cleaned file will be saved
 
 clean_whitespace(input_file, output_file)
