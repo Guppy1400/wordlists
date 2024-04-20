@@ -79,11 +79,11 @@ goose
 gopher
 gorilla
 grasshopper
-grey seal
+greyseal
 greyhound
-grizzly bear
+grizzlybear
 grouse
-guinea fowl
+guineafowl
 guppy
 hamster
 harrier
@@ -92,7 +92,7 @@ heron
 hippopotamus
 horse
 hound
-howler monkey
+howlermonkey
 hummingbird
 hyena
 i
@@ -102,7 +102,7 @@ jackal
 jaguar
 jellyfish
 kangaroo
-king crab
+kingcrab
 kingfisher
 kiwi
 koala
